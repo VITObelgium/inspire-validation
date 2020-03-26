@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<catalog xmlns='urn:oasis:names:tc:entity:xmlns:xml:catalog' xmlns:spy='http://www.altova.com/catalog_ext' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:oasis:names:tc:entity:xmlns:xml:catalog Catalog.xsd'>
+
+    <!-- Offline version (faster) -->
+    <rewriteURI uriStartString="http://standards.iso.org/iso/19115/-2/gmi/" rewritePrefix="iso19115/gmi/"/>
+    <rewriteURI uriStartString="https://standards.iso.org/iso/19115/-2/gmi/" rewritePrefix="iso19115/gmi/"/>
+    <rewriteURI uriStartString="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/" rewritePrefix="iso19139/"/>
+    <rewriteURI uriStartString="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/" rewritePrefix="iso19139/"/>
+    <rewriteURI uriStartString="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19136_Schemas/" rewritePrefix="iso19136/"/>
+    <rewriteURI uriStartString="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19136_Schemas/" rewritePrefix="iso19136/"/>
+    <rewriteURI uriStartString="http://www.opengis.net/gml/" rewritePrefix="iso19136/"/>
+    <rewriteURI uriStartString="https://www.opengis.net/gml/" rewritePrefix="iso19136/"/>
+    <rewriteURI uriStartString="http://schemas.opengis.net/gml/3.2.1/" rewritePrefix="iso19136/"/>
+    <rewriteURI uriStartString="https://schemas.opengis.net/gml/3.2.1/" rewritePrefix="iso19136/"/>
+
+    <!-- Online version (requires active internet connection, slower) -->
+    <!--
+    <rewriteURI uriStartString="http://standards.iso.org/iso/" rewritePrefix="https://standards.iso.org/iso/"/>
+    <rewriteURI uriStartString="http://standards.iso.org/ittf/" rewritePrefix="https://standards.iso.org/ittf/"/>
+    <rewriteURI uriStartString="http://www.opengis.net/gml/" rewritePrefix="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19136_Schemas/"/>
+    <rewriteURI uriStartString="https://www.opengis.net/gml/" rewritePrefix="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19136_Schemas/"/>
+    <rewriteURI uriStartString="http://schemas.opengis.net/gml/3.2.1/" rewritePrefix="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19136_Schemas/"/>
+    <rewriteURI uriStartString="https://schemas.opengis.net/gml/3.2.1/" rewritePrefix="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19136_Schemas/"/>
+    -->
+    
+</catalog>
